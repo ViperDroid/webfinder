@@ -17,7 +17,7 @@ Be a man!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/webfinder.git
+   git clone https://github.com/VipeDroid/webfinder.git
    cd webfinder
    pip install -r requirements.txt
    python web_finder_viper.py

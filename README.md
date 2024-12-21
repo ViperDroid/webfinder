@@ -19,4 +19,7 @@ Be a man!
    ```bash
    git clone https://github.com/username/webfinder.git
    cd webfinder
+   pip install -r requirements.txt
+   python web_finder_viper.py
    
+enjoy!
